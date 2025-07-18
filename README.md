@@ -6,3 +6,6 @@
 
 Pequeño proyecto el cual consiste en el uso básico de HTML y CSS. Para esto se crea una página con temática de arte de videojuegos, haciendo uso de las distintas etiquetas HTML y selectores CSS.
 
+## Página Desplegada
+
+Mediante el siguiente link: https://sauk1346.github.io/-TI3V31-Evaluacion01/
